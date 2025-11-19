@@ -1,0 +1,49 @@
+{
+  "name": "fyp-virtual-therapy-platform-healnest-",
+  "version": "1.0.0",
+  "description": "Final Year Project",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishRM-ai/FYP-Virtual-Therapy-Platform-HealNest-.git"
+  },
+  "author": "Anish Rajan Magar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnishRM-ai/FYP-Virtual-Therapy-Platform-HealNest-/issues"
+  },
+  "homepage": "https://github.com/AnishRM-ai/FYP-Virtual-Therapy-Platform-HealNest-#readme",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.1.1",
+    "@stripe/stripe-js": "^5.6.0",
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "express-validator": "^7.2.1",
+    "fyp-virtual-therapy-platform-healnest-": "file:",
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^144.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^3.4.0",
+    "mongoose": "^8.9.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.9",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.5.1",
+    "socket.io": "^4.8.1",
+    "stripe": "^17.7.0"
+  }
+}
