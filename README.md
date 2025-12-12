@@ -6,10 +6,12 @@ Online appointment booking system for mental health consultants
 Virtual consultation platform for therapy sessions
 User-friendly interface for scheduling and managing appointments
 Backend API to support appointment management and user data handling
+Google Calendar Integration
 Complete project with testing implementation
 
 # Technology Stack
-Frontend: JavaScript (99.8% of the codebase)
-Backend: Python (based on requirements.txt)
+Frontend: React.js, Tailwindcss, Material UI
+Backend: Node.js, express.js
+Database: MongoDB
 Node.js/npm for dependency management
-Full-stack web application architecture
+
